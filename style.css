@@ -1,0 +1,37 @@
+.one{
+    width:40%;
+}
+.para{
+    text-align: justify;
+}
+.check{
+    color: rgb(77, 122, 9);
+    font-family: cursive;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.head{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.invent{
+    color: white;
+    background-color: rgb(78, 116, 22);
+    width: 100px;
+}
+div{
+    display: inline-block;
+}
+.ginger,.white-tea,.d-tea{
+    margin: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+img{
+    border-radius: 5%;
+}
+.price-ginger,.price-white,.price-d{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(90, 141, 14);
+    font-size: 15px;
+}
